@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cojo3\\source\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj": {}
+    "C:\\Users\\cojo3\\Desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cojo3\\source\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj": {
+    "C:\\Users\\cojo3\\Desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cojo3\\source\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj",
+        "projectUniqueName": "C:\\Users\\cojo3\\Desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj",
         "projectName": "MethodsWithLoopsAndConditionals",
-        "projectPath": "C:\\Users\\cojo3\\source\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj",
+        "projectPath": "C:\\Users\\cojo3\\Desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj",
         "packagesPath": "C:\\Users\\cojo3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cojo3\\source\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\obj\\",
+        "outputPath": "C:\\Users\\cojo3\\Desktop\\repos\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cojo3\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -93,7 +93,7 @@ namespace MethodsWithLoopsAndConditionals
                 {
                     Console.WriteLine(x);
                 }
-                Console.WriteLine(expectedNum);
+                
             }
 
             else if (startingNum > expectedNum)
@@ -176,7 +176,7 @@ namespace MethodsWithLoopsAndConditionals
         {
             var Table = new List<int>();
             var results = new List<int>();
-            
+            var startingNum = initialVal;
 
             for (int i = 1; i <= 12; i++)
             {
@@ -186,14 +186,15 @@ namespace MethodsWithLoopsAndConditionals
                 {
                     var finalResults = initialVal * i;
                     results.Add(finalResults);
+                   
+                    Console.WriteLine($"{startingNum}* {i} = {finalResults}");
+ 
                 }
                 while (Table.Count >= 13);
             }
 
-            foreach (int x in results)
-            {
-                Console.WriteLine(x);
-            }
+
+            
         }
     }
 }
